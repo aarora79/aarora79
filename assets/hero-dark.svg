@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-labelledby="title desc">
+  <title id="title">Amit Arora</title>
+  <desc id="desc">Agentic AI infrastructure, MCP, and agent evaluation. Principal Solutions Architect, AI/ML at AWS. Adjunct Professor, Georgetown University.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#0f182b"/>
+      <stop offset="100%" stop-color="#141d33"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0.85" cy="0.5" r="0.55">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8b949e" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <style>
+      .name  { font-family: ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+               font-size: 54px; font-weight: 700; letter-spacing: -0.8px; fill: #f0f6fc; }
+      .focus { font-family: ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+               font-size: 23px; font-weight: 500; letter-spacing: -0.2px; fill: #79c0ff; }
+      .meta  { font-family: ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+               font-size: 17px; font-weight: 400; fill: #8b949e; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="280" fill="url(#bg)"/>
+  <rect width="1280" height="280" fill="url(#grid)"/>
+  <rect width="1280" height="280" fill="url(#glow)"/>
+
+  <!-- hub and spoke motif: a gateway routing agents to tools -->
+  <g transform="translate(1075 140)" fill="none" stroke="#58a6ff">
+    <circle r="112" stroke-opacity="0.14" stroke-dasharray="3 7"/>
+    <g stroke-opacity="0.38" stroke-width="1.4">
+      <path d="M0 0 L88 0"/>
+      <path d="M0 0 L44 -76"/>
+      <path d="M0 0 L-44 -76"/>
+      <path d="M0 0 L-88 0"/>
+      <path d="M0 0 L-44 76"/>
+      <path d="M0 0 L44 76"/>
+    </g>
+    <g fill="#0f182b" stroke="#58a6ff" stroke-opacity="0.75" stroke-width="1.6">
+      <circle cx="88" cy="0" r="11"/>
+      <circle cx="44" cy="-76" r="11"/>
+      <circle cx="-44" cy="-76" r="11"/>
+      <circle cx="-88" cy="0" r="11"/>
+      <circle cx="-44" cy="76" r="11"/>
+      <circle cx="44" cy="76" r="11"/>
+    </g>
+    <circle r="27" fill="#58a6ff" fill-opacity="0.16" stroke="#58a6ff" stroke-opacity="0.9" stroke-width="2"/>
+    <circle r="6" fill="#79c0ff" stroke="none"/>
+  </g>
+
+  <text class="name" x="64" y="106">Amit Arora</text>
+  <rect x="64" y="128" width="76" height="4" rx="2" fill="url(#rule)"/>
+  <text class="focus" x="64" y="172">Agentic AI infrastructure, MCP, and agent evaluation</text>
+  <text class="meta" x="64" y="208">Principal Solutions Architect, AI/ML at AWS</text>
+  <text class="meta" x="64" y="234">Adjunct Professor, Georgetown University</text>
+</svg>
