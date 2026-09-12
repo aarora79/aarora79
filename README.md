@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amit-arora-539120a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amit%20Arora-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1c2128"></a>
+  <a href="https://www.linkedin.com/in/amit-arora-539120a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amit%20Arora-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1c2128"></a>
   <a href="https://twitter.com/aarora79"><img alt="X" src="https://img.shields.io/badge/X-@aarora79-1c2128?style=flat-square&logo=x&logoColor=white&labelColor=1c2128"></a>
   <a href="https://openreview.net/forum?id=yCsHQnvvWY"><img alt="Publications" src="https://img.shields.io/badge/Papers-OpenReview-8C1B13?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1c2128"></a>
   <a href="#talks-and-papers"><img alt="Talks" src="https://img.shields.io/badge/Talks-ICLR%20%C2%B7%20ACM%20%C2%B7%20re%3AInvent-1f6feb?style=flat-square&labelColor=1c2128"></a>
@@ -123,5 +123,5 @@ Terraform, OpenSearch, DynamoDB
 <br>
 
 <p align="center">
-  <sub>Maryland, USA &nbsp;·&nbsp; <a href="https://linkedin.com/in/amit-arora-539120a/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://twitter.com/aarora79">X</a></sub>
+  <sub>Maryland, USA &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/amit-arora-539120a/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://twitter.com/aarora79">X</a></sub>
 </p>
