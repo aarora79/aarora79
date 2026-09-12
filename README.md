@@ -9,6 +9,7 @@
   <a href="https://twitter.com/aarora79"><img alt="X" src="https://img.shields.io/badge/X-@aarora79-1c2128?style=flat-square&logo=x&logoColor=white&labelColor=1c2128"></a>
   <a href="https://openreview.net/forum?id=yCsHQnvvWY"><img alt="Publications" src="https://img.shields.io/badge/Papers-OpenReview-8C1B13?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1c2128"></a>
   <a href="#talks-and-papers"><img alt="Talks" src="https://img.shields.io/badge/Talks-ICLR%20%C2%B7%20ACM%20%C2%B7%20re%3AInvent-1f6feb?style=flat-square&labelColor=1c2128"></a>
+  <a href="#writing"><img alt="AWS Blogs" src="https://img.shields.io/badge/AWS%20Blogs-13%20posts-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=1c2128"></a>
 </p>
 
 I work on the infrastructure layer of enterprise agentic AI: the gateways and registries that let agents
@@ -51,8 +52,37 @@ economics, and running open weight models in production. Slides and prior record
 | 2023 | **AWS re:Invent** | AIM305, building scalable RAG applications with Amazon Bedrock Knowledge Bases |
 | 2019 | **ScAINet, EARL** | Applied machine learning in telecommunications networks |
 
-Also the author of 10+ posts on the AWS Machine Learning Blog, four of them co-authored with customers,
-and 26 granted patents in satellite telecommunications and applied machine learning.
+Also the holder of 26 granted patents in satellite telecommunications and applied machine learning.
+
+## Writing
+
+Thirteen posts on the AWS blogs, four of them co-authored with the customer whose system they describe.
+
+| Date | Post |
+|---|---|
+| Jun 2026 | [Governing AI assets at scale with MCP Gateway and Registry](https://aws.amazon.com/blogs/opensource/governing-ai-assets-at-scale-with-mcp-gateway-and-registry/) <br> <sub>AWS Open Source Blog</sub> |
+| May 2026 | [Securing AI agents: how AWS and Cisco AI Defense scale MCP and A2A deployments](https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/) |
+| Sep 2025 | [Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-multi-agent-site-reliability-engineering-assistants-with-amazon-bedrock-agentcore/) |
+| Apr 2025 | [Harness the power of MCP servers with Amazon Bedrock Agents](https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/) |
+| Dec 2024 | [Talk to your slide deck using multimodal foundation models on Amazon Bedrock, Part 3](https://aws.amazon.com/blogs/machine-learning/talk-to-your-slide-deck-using-multimodal-foundation-models-on-amazon-bedrock-part-3/) |
+| Aug 2024 | [How Cisco accelerated the use of generative AI with Amazon SageMaker Inference](https://aws.amazon.com/blogs/machine-learning/how-cisco-accelerated-the-use-of-generative-ai-with-amazon-sagemaker-inference/) |
+
+<details>
+<summary><b>Earlier posts</b> (2023 to 2024)</summary>
+
+<br>
+
+| Date | Post |
+|---|---|
+| Aug 2024 | [How Twilio generated SQL using Looker Modeling Language data with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-twilio-generated-sql-using-looker-modeling-language-data-with-amazon-bedrock/) |
+| Jun 2024 | [How Twilio used Amazon SageMaker MLOps pipelines with PrestoDB to enable frequent model retraining and optimized batch transform](https://aws.amazon.com/blogs/machine-learning/how-twilio-used-amazon-sagemaker-mlops-pipelines-with-prestodb-to-enable-frequent-model-retraining-and-optimized-batch-transform/) |
+| Apr 2024 | [Use Kubernetes Operators for new inference capabilities in Amazon SageMaker that reduce LLM deployment costs by 50% on average](https://aws.amazon.com/blogs/machine-learning/use-kubernetes-operators-for-new-inference-capabilities-in-amazon-sagemaker-that-reduce-llm-deployment-costs-by-50-on-average/) |
+| Apr 2024 | [Talk to your slide deck using multimodal foundation models hosted on Amazon Bedrock and Amazon SageMaker, Part 2](https://aws.amazon.com/blogs/machine-learning/talk-to-your-slide-deck-using-multimodal-foundation-models-hosted-on-amazon-bedrock-and-amazon-sagemaker-part-2/) |
+| Jan 2024 | [Talk to your slide deck using multimodal foundation models hosted on Amazon Bedrock and Amazon SageMaker, Part 1](https://aws.amazon.com/blogs/machine-learning/talk-to-your-slide-deck-using-multimodal-foundation-models-hosted-on-amazon-bedrock-and-amazon-sagemaker-part-1/) |
+| Nov 2023 | [Build a foundation model powered customer service bot with Amazon Bedrock agents](https://aws.amazon.com/blogs/machine-learning/build-a-foundation-model-fm-powered-customer-service-bot-with-amazon-bedrock-agents/) |
+| Mar 2023 | [Use Snowflake as a data source to train ML models with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/use-snowflake-as-a-data-source-to-train-ml-models-with-amazon-sagemaker/) |
+
+</details>
 
 ## Teaching
 
