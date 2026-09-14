@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarora79/aarora79/main/assets/hero-mobile-dark.svg">
+  <source media="(max-width: 500px)" srcset="https://raw.githubusercontent.com/aarora79/aarora79/main/assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarora79/aarora79/main/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarora79/aarora79/main/assets/hero-light.svg">
   <img alt="Amit Arora. Agentic AI infrastructure, MCP, and agent evaluation. Principal Solutions Architect, AI/ML at AWS. Adjunct Professor, Georgetown University." src="https://raw.githubusercontent.com/aarora79/aarora79/main/assets/hero-light.svg">
