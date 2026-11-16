@@ -26,6 +26,14 @@ and applied machine learning.
 
 ---
 
+## [Project Meru](https://github.com/aarora79/meru)
+<img alt="stars" src="https://img.shields.io/github/stars/aarora79/meru?style=flat-square&label=%E2%98%85&labelColor=1c2128&color=1f6feb"> <img alt="latest release" src="https://img.shields.io/github/v/release/aarora79/meru?style=flat-square&label=release&labelColor=1c2128&color=2F6B4F">
+
+A personal AI assistant that runs on a machine you control, using local open weight models only. It answers from your own files, notes, mail and calendar, and from MCP tools you allow, with every tool call logged and no question sent to the internet. Written in Go on Ollama, with hybrid search over your files, a desktop app, scheduled jobs, and one line installers for macOS, Linux and Windows.
+[Website](https://aarora79.github.io/meru/) · [Slides](https://aarora79.github.io/meru/slides/meru-overview.html).
+
+---
+
 ## Flagship open source
 
 ### [mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry)
