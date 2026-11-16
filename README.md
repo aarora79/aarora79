@@ -95,6 +95,7 @@ economics, and running open weight models in production. Slides and prior record
 
 **2026**
 
+- **AWS re:Invent** (upcoming, Dec 3) · [OPN301, governing AI assets at scale with MCP Gateway and Registry](https://registration.awsevents.com/flow/awsevents/reinvent2026/eventcatalog/page/eventcatalog?search=OPN301), with Expedia Group (breakout session)
 - **ICLR** · Holistic Agent Leaderboard (HAL), co-presented with Princeton University researchers
 - **ACM AgentSkills**, CAIS Workshop · [From Observed Reasoning to Stable Skills: A Memory Substrate for Skill Graduation](https://openreview.net/forum?id=yCsHQnvvWY), introducing the Cognitive Memory Manager for skill graduation in coding agents
 - **MCP Dev Summit**, NYC and Amsterdam · MCP Gateway and Registry: architecture and enterprise adoption patterns
